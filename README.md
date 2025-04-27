@@ -1,6 +1,4 @@
-﻿# LAPORANGO
-# Here's a more unique and creative GitHub description for your project:
-
+﻿# Website GO LAPOR: Layanan Laporan dan Pengaduan Desa
 ---
 
 # Website GO LAPOR: Layanan Laporan dan Pengaduan Desa
