@@ -38,32 +38,24 @@
 | **Sathiul Inayah**             | 23050974134    |
 | **Pinasthi Ayuningtyas**       | 23050974142    |
 
+### **🔐 Login Website**
+#### Untuk User/Masyarakat:
+- **Username**: User  
+- **Password**: 123
 
-🔐 Login Website:
-Untuk User/Masyarakat:
+#### Untuk Petugas:
+- **Username**: Petugas  
+- **Password**: 123
 
-Username: User
+#### Untuk ADMIN:
+- **Username**: admin  
+- **Password**: 1234
 
-Password: 123
-
-Untuk Petugas:
-
-Username: Petugas
-
-Password: 123
-
-Untuk ADMIN:
-
-Username: admin
-
-Password: 1234
-
-Catatan:
-Semua pengguna (User/Masyarakat/Petugas) harus melewati proses pendaftaran yang dilakukan oleh ADMIN terlebih dahulu untuk membuat akun.
-
+> **Catatan:**  
+> Semua pengguna (User/Masyarakat/Petugas) harus melewati proses pendaftaran yang dilakukan oleh **ADMIN** terlebih dahulu untuk membuat akun.
 
 ### **🔗 Link Terkait**
 - [Prodi Teknologi Informasi UNESA](https://pendidikan-ti.ft.unesa.ac.id/)
 - [Website GO LAPOR](https://laporandesa.infy.uk/)
----
 
+---
