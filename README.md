@@ -1,4 +1,5 @@
-﻿# Website GO LAPOR: Layanan Laporan dan Pengaduan Desa
+Here's a refined version of your GitHub description, with an added table for the group members:
+
 ---
 
 # Website GO LAPOR: Layanan Laporan dan Pengaduan Desa
@@ -29,15 +30,17 @@
 - **Hosting**: InfinityFree
 
 ### **👨‍👩‍👧‍👦 Tim Pengembang**
-- **Amanda Haikal Shafara** (23050974119)
-- **Reza Choirudin Divansya** (23050974125)
-- **Sathiul Inayah** (23050974134)
-- **Pinasthi Ayuningtyas** (23050974142)
+
+| Nama                          | NIM            |
+|-------------------------------|----------------|
+| **Amanda Haikal Shafara**      | 23050974119    |
+| **Reza Choirudin Divansya**    | 23050974125    |
+| **Sathiul Inayah**             | 23050974134    |
+| **Pinasthi Ayuningtyas**       | 23050974142    |
 
 ### **🔗 Link Terkait**
 - [Prodi Teknologi Informasi UNESA](https://pendidikan-ti.ft.unesa.ac.id/)
 - [Website GO LAPOR](https://laporandesa.infy.uk/)
-
 ---
 
-This version takes a more engaging and creative approach while still providing all the essential details. It highlights the impact of the website, adding a more dynamic touch to the description.
+This version includes a table that organizes the group members' names and NIM (student IDs) neatly, making it easy for viewers to see who was involved in the project. The description still emphasizes the purpose and features of the application while keeping it engaging.
