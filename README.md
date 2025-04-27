@@ -1,4 +1,4 @@
-Here's a refined version of your GitHub description, with an added table for the group members:
+
 
 ---
 
@@ -38,9 +38,32 @@ Here's a refined version of your GitHub description, with an added table for the
 | **Sathiul Inayah**             | 23050974134    |
 | **Pinasthi Ayuningtyas**       | 23050974142    |
 
+
+🔐 Login Website:
+Untuk User/Masyarakat:
+
+Username: User
+
+Password: 123
+
+Untuk Petugas:
+
+Username: Petugas
+
+Password: 123
+
+Untuk ADMIN:
+
+Username: admin
+
+Password: 1234
+
+Catatan:
+Semua pengguna (User/Masyarakat/Petugas) harus melewati proses pendaftaran yang dilakukan oleh ADMIN terlebih dahulu untuk membuat akun.
+
+
 ### **🔗 Link Terkait**
 - [Prodi Teknologi Informasi UNESA](https://pendidikan-ti.ft.unesa.ac.id/)
 - [Website GO LAPOR](https://laporandesa.infy.uk/)
 ---
 
-This version includes a table that organizes the group members' names and NIM (student IDs) neatly, making it easy for viewers to see who was involved in the project. The description still emphasizes the purpose and features of the application while keeping it engaging.
